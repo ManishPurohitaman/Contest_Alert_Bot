@@ -1,7 +1,9 @@
-<h1>RealTime Chat Application - LetsChat</h1>
+<h1>Contest Alert Bot to alert users on latest contests</h1>
 
 <ul>
-<li>It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.</li>
+<li>Features : </li>
+<li>Sends Notifications to each member in the room for leetcode, codeforces and codechef contest </li>
+<li>Shares user ratings to them at the end of each contest </li>
 <li>FrontEnd Technologies- HTML, CSS</li>
 <li>BackEnd Technologies- JavaScript, Node.js</li>
 <li>Used Socket.io module for a two-way connection between client and server.</li>
